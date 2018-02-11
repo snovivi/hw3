@@ -6,6 +6,6 @@
 
   * [google form.link](https://goo.gl/forms/gFMjwDw9ktMngwC83)
   
-**_Ссылка на полученную таблицу с ответами и с фильтарми ("ответ "ДА"", "Hohensalzburg castle (Austria)", "Знают термин Всемирное наследие (и его правильное определение)"):_**
+**_Ссылка на полученную таблицу с ответами и с фильтарми ("ответ "ДА"", "Hohensalzburg castle (Austria)", "Знают термин Всемирное наследие (его правильное определение)"):_**
 
   * [table.link](https://docs.google.com/spreadsheets/d/1NZKnQFfBlGz8x1mqdFL-Z4-KgHymIBm6pHZ1SiNH9L8/edit#gid=1510922054)
