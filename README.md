@@ -8,7 +8,7 @@
   
 **_Ссылка на доступ к редактированию гугл формы:_**
   
-  *[google access.link] (https://docs.google.com/forms/d/1QkiClNckXOi77CimZ1Q7OwFzjegHyqVoF7pFep6a-P8/edit?usp=sharing)
+  * [google access.link] (https://docs.google.com/forms/d/1QkiClNckXOi77CimZ1Q7OwFzjegHyqVoF7pFep6a-P8/edit?usp=sharing)
   
 **_Ссылка на полученную таблицу с ответами и с фильтарми ("ответ "ДА"", "Hohensalzburg castle (Austria)", "Знают правильное определение термина "туризм Всемирного наследия""; "Отдают предпочтение автомобилю"):_**
 
