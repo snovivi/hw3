@@ -6,6 +6,10 @@
 
   * [google form.link](https://goo.gl/forms/gFMjwDw9ktMngwC83)
   
+**_Ссылка на доступ к редактированию гугл формы:_**
+  
+  *[google access.link] (https://docs.google.com/forms/d/1QkiClNckXOi77CimZ1Q7OwFzjegHyqVoF7pFep6a-P8/edit?usp=sharing)
+  
 **_Ссылка на полученную таблицу с ответами и с фильтарми ("ответ "ДА"", "Hohensalzburg castle (Austria)", "Знают правильное определение термина "туризм Всемирного наследия""; "Отдают предпочтение автомобилю"):_**
 
   * [table.link](https://docs.google.com/spreadsheets/d/1NZKnQFfBlGz8x1mqdFL-Z4-KgHymIBm6pHZ1SiNH9L8/edit#gid=1510922054)
